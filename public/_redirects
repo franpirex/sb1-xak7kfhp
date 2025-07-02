@@ -1,0 +1,2 @@
+# Netlify redirects for subdomain handling
+https://admin.raiodoscachopos.com/* https://raiodoscachopos.com/:splat 200
